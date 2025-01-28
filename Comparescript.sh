@@ -69,3 +69,5 @@ remove_duplicates() {
 }
 
 remove_duplicates "$directory"
+
+
